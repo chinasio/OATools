@@ -1,0 +1,38 @@
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\bin\Release\OATools_2B.dll
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\bin\Release\OATools_2B.pdb
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\bin\Release\OATools_2B.xml
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.Resources.resources
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.OpenFileForm.resources
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.vbproj.GenerateResource.Cache
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.dll
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.xml
+C:\Users\lenka.kocianova.GEOLOGY\documents\visual studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.pdb
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\bin\Release\OATools_2B.dll
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\bin\Release\OATools_2B.pdb
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\bin\Release\OATools_2B.xml
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.AveragForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.DensityForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.FoldAxesForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.HelpForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.HistogramForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.LinkBackForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.Resources.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.OpenFileForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.OsaPlotForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.PlotForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.dll
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.xml
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.pdb
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.AveragForm.resources
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.DensityForm.resources
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.FoldAxesForm.resources
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.HelpForm.resources
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.HistogramForm.resources
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.LinkBackForm.resources
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.OsaPlotForm.resources
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\obj\Release\OATools_2B.PlotForm.resources
+C:\Documents and Settings\lenka.kocianova\Dokumenty\Visual Studio 2010\Projects\OATools_2B\OATools_2B\bin\Release\OATools_2B.esriAddIn
+C:\Users\lenka.kocianova.GEOLOGY\Documents\Visual Studio 2010\Projects\OATools_2B\OATools_2B\bin\Release\OATools_2B.esriAddIn

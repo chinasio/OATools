@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OATools_2B
+</name>
+</assembly>
+<members>
+<member name="P:OATools_2B.My.ThisAddIn.IDs.Nova_projekceButton2">
+	<summary>
+Returns 'OATools_2B_Nova_projekceButton2', the id declared for Add-in Button class 'Nova_projekceButton2'
+</summary>
+</member><member name="P:OATools_2B.My.ThisAddIn.IDs.PlotTool">
+	<summary>
+Returns 'OATools_2B_PlotTool', the id declared for Add-in Button class 'PlotTool'
+</summary>
+</member><member name="P:OATools_2B.My.ThisAddIn.IDs.Density_Button">
+	<summary>
+Returns 'OATools_2B_Density_Button', the id declared for Add-in Button class 'Density_Button'
+</summary>
+</member><member name="P:OATools_2B.My.ThisAddIn.IDs.HistogramButton">
+	<summary>
+Returns 'OATools_2B_HistogramButton', the id declared for Add-in Button class 'HistogramButton'
+</summary>
+</member><member name="P:OATools_2B.My.ThisAddIn.IDs.FoldAxesButton">
+	<summary>
+Returns 'OATools_2B_FoldAxesButton', the id declared for Add-in Button class 'FoldAxesButton'
+</summary>
+</member><member name="P:OATools_2B.My.ThisAddIn.IDs.AveragButton">
+	<summary>
+Returns 'OATools_2B_AveragButton', the id declared for Add-in Button class 'AveragButton'
+</summary>
+</member><member name="P:OATools_2B.My.ThisAddIn.IDs.LinkBackButton">
+	<summary>
+Returns 'OATools_2B_LinkBackButton', the id declared for Add-in Button class 'LinkBackButton'
+</summary>
+</member><member name="T:OATools_2B.My.ThisAddIn.IDs">
+	<summary>
+A class for looking up Add-in id strings declared in the associated configuration xml file (.esriaddinx).
+</summary>
+</member><member name="T:OATools_2B.My.ThisAddIn">
+	<summary>
+A class for looking up declarative information in the associated configuration xml file (.esriaddinx).
+</summary>
+</member><member name="M:OATools_2B.My.Internal.AddInStartupObject.GetThis">
+	<summary>
+ Expose this instance of Add-in class externally
+ </summary>
+</member><member name="P:OATools_2B.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OATools_2B.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OATools_2B.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

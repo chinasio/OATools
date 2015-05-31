@@ -1,0 +1,41 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>OATools_2B</Name>
+  <AddInID>{029d8e7a-394e-4955-b291-0cbc6eed196a}</AddInID>
+  <Description>Orientation analysis Tools for ArcMap 10.2</Description>
+  <Version>1.0</Version>
+  <Image>Images\OATools_2B.png</Image>
+  <Author>lenka.kocianova</Author>
+  <Company></Company>
+  <Date>24.5.2015</Date>
+  <Targets>
+    <Target name="Desktop" version="10.2" />
+  </Targets>
+  <AddIn language="CLR4.0" library="OATools_2B.dll" namespace="OATools_2B">
+    <ArcMap>
+      <Commands>
+        <Button id="OATools_2B_Nova_projekceButton2" class="Nova_projekceButton2" message="Create new equal-area projection" caption="New Projection" tip="Create new equal-area projection" category="Add-In Controls" image="Images\Nova_projekceButton2.png" />
+        <Button id="OATools_2B_PlotTool" class="PlotTool" message="Plot orientation into equal area projection" caption="Plot Tool" tip="Plot orientation into equal area projection" category="Add-In Controls" image="Images\Plot_Button.png" />
+        <Button id="OATools_2B_Density_Button" class="Density_Button" message="Calculate density distribution on the sphere" caption="Density distribution" tip="Calculate density distribution on the sphere" category="Add-In Controls" image="Images\Density_Button.png" />
+        <Button id="OATools_2B_HistogramButton" class="HistogramButton" message="Calculate Rose Histogram" caption="Rose Histogram" tip="Rose Histogram" category="Add-In Controls" image="Images\Histogram_Button.png" />
+        <Button id="OATools_2B_FoldAxesButton" class="FoldAxesButton" message="Calculate Map of Fold Axes" caption="Map of Fold Axes" tip="Map of Fold Axes" category="Add-In Controls" image="Images\FoldAxes_Button.png" />
+        <Button id="OATools_2B_AveragButton" class="AveragButton" message="Calculate Spatially averaged map" caption="Spatial Averaging" tip="Spatially averaged map" category="Add-In Controls" image="Images\Averag_Button.png" />
+        <Button id="OATools_2B_LinkBackButton" class="LinkBackButton" message="Link points in the diagram to control points in the map" caption="Link Back" tip="Link Tool between diagram and map" category="Add-In Controls" image="Images\Link_Button.png" />
+        <Button id="OATools_2B_HelpButton" class="HelpButton" message="Help" caption="Help" tip="Help" category="Add-In Controls" />
+      </Commands>
+      <Toolbars>
+        <Toolbar id="CGS_OATools_2B_OATools_toolbar" caption="OATools_toolbar" showInitially="true">
+          <Items>
+            <Item refID="OATools_2B_Nova_projekceButton2" />
+            <Button refID="OATools_2B_PlotTool" separator="true" />
+            <Button refID="OATools_2B_Density_Button" separator="true" />
+            <Button refID="OATools_2B_HistogramButton" separator="true" />
+            <Button refID="OATools_2B_FoldAxesButton" separator="true" />
+            <Button refID="OATools_2B_AveragButton" separator="true" />
+            <Button refID="OATools_2B_LinkBackButton" separator="true" />
+            <Button refID="OATools_2B_HelpButton" separator="true" />
+          </Items>
+        </Toolbar>
+      </Toolbars>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>
